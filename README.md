@@ -1,4 +1,5 @@
-<div align=center>
+
+    <div align=center>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fellynhan%2FChallenge100_Code_Test_Study&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![All Contributors](https://img.shields.io/badge/All_contributors-43-orange.svg?style=flat-square)](#)
@@ -8,90 +9,90 @@
 
 ![img](./.Readme/logo.png)
 ---
-# ð¯ ìê³ ë¦¬ì¦ ë° ì½ë© íì¤í¸ ë¬¸ì  íì´ ì±ë¦°ì§ 100 ð
-`ëêµ¬ë` ì°¸ì¬ ê°ë¥í ìê³ ë¦¬ì¦ ë° ì½í ë¬¸ì  íì´ ì¤í°ëìëë¤.
+# 💯 알고리즘 및 코딩 테스트 문제 풀이 챌린지 100 📝
+`누구나` 참여 가능한 알고리즘 및 코테 문제 풀이 스터디입니다.
 
-3ê°ì ì´ì ì°¸ì¬ ìíì  ë¶ë¤ì ììì ì¤ëí¬ê¸° ì²ë¦¬í ê²ì!
+3개월 이상 참여 안하신 분들은 알아서 중도포기 처리할게요!
 
-ì°¸ì¬ ë°©ë² ì¤ëªê¸: <https://waytocse.tistory.com/59>
+참여 방법 설명글: <https://waytocse.tistory.com/59>
 <br />
 <br />
 
-## â ì°¸ì¬ ë°©ë²
-1. ì´ ì ì¥ìë¥¼ `fork` íë¤.
-2. ìì±ë ìê²© ì ì¥ìì `ì´ë¦` í¹ì `github ID`ë¡ í´ëë¥¼ ìì±íë¤.
-3. ìì±ë í´ëì ìì ì ìì¤ì½ëë¥¼ ìë¡ë íë¤. (í´ëëªì ì½ë¡ ":" ìë©ëë¤!)
-4. ì´ë `commit ê·ì¹`ì ì§í¤ëë¡íë¤!
-5. ìë³¸ ì ì¥ìë¡ `Pull Request`ë¥¼ íë¤. (ë§¤ì£¼ 3ë¬¸ì  ì´ì, ë§¤ì£¼ **í ìì¼**ì Mergeìì )
-6. ë¤ë¥¸ ì¬ëë¤ì PRì ë³´ê³  ìì ë¡­ê² ì½ëë¦¬ë·°ë¥¼ íë¤.
-7. ***ì£¼ì!! ê¸°ì¡´ í´ëë¥¼ ì§ì°ë©´ ìë©ëë¤!!*** ê°ì¸ í´ë ë´ë¶ë§ ìì í´ì£¼ì¸ì :)
-8. ì¤íí¡ë°© <https://open.kakao.com/o/gI9Vfmxd> ë¤ì´ì¤ìë©´ ë§¤ì£¼ í ìì¼ PRìë¦¼ + ëª¨ë¥´ëê±° ë¬¼ì´ë³´ì¸ì 
-
-<br />
-<br />
-
-## â ìì¤ì½ë íì¼ ì´ë¦ ê·ì¹
-- ìì ë¡­ê² ìì± 
-- í´ëëª ëë ìì¤ì½ë íì¼ëªì ì½ë¡  ":" ìë©ëë¤ :D
+## ✅ 참여 방법
+1. 이 저장소를 `fork` 한다.
+2. 생성된 원격 저장소에 `이름` 혹은 `github ID`로 폴더를 생성한다.
+3. 생성된 폴더에 자신의 소스코드를 업로드 한다. (폴더명에 콜론":" 안됩니다!)
+4. 이때 `commit 규칙`을 지키도록한다!
+5. 원본 저장소로 `Pull Request`를 한다. (매주 3문제 이상, 매주 **토요일**에 Merge예정)
+6. 다른 사람들의 PR을 보고 자유롭게 코드리뷰를 한다.
+7. ***주의!! 기존 폴더를 지우면 안됩니다!!*** 개인 폴더 내부만 수정해주세요 :)
+8. 오픈톡방 <https://open.kakao.com/o/gI9Vfmxd> 들어오시면 매주 토요일 PR알림 + 모르는거 물어보세요 
 
 <br />
 <br />
 
-## â commit ê·ì¹
-- commit ë©ì¸ì§: [ë¬¸ì  ì¶ì²(íë«í¼)] ë¬¸ì ì´ë¦ / ëì´ë / ê±¸ë¦°ìê° 
-- description: ë¬¸ì  ì£¼ì (option)
-- í°ë¯¸ëìì ìì±ë²: 
+## ✅ 소스코드 파일 이름 규칙
+- 자유롭게 작성 
+- 폴더명 또는 소스코드 파일명에 콜론 ":" 안됩니다 :D
+
+<br />
+<br />
+
+## ✅ commit 규칙
+- commit 메세지: [문제 출처(플랫폼)] 문제이름 / 난이도 / 걸린시간 
+- description: 문제 주소 (option)
+- 터미널에서 작성법: 
 ```
-git commit -m "[BOJ] Hello World / ë¸ë¡ ì¦5 / 1ë¶" -m "https://www.acmicpc.net/problem/2557"
+git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.net/problem/2557"
 ```
-- íë«í¼ ìì±ë² íµì¼: 
-  * [BOJ] - ë°±ì¤ 
-  * [PGS] - íë¡ê·¸ëë¨¸ì¤
-  * [LTC] - ë¦¬í¸ì½ë
-  * [CFS] - ì½ëí¬ì¤
-  * [SEA] - ì¼ì±SW Expert Academy
-  * [ETC] - ê·¸ì¸
+- 플랫폼 작성법 통일: 
+  * [BOJ] - 백준 
+  * [PGS] - 프로그래머스
+  * [LTC] - 리트코드
+  * [CFS] - 코드포스
+  * [SEA] - 삼성SW Expert Academy
+  * [ETC] - 그외
 
 <br />
 <br />
 
-## â PR ê·ì¹
-- PR ì ëª©: ì´ë¦ / ì£¼ì°¨ / ëª ë¬¸ì 
--  ```jaewon han / 8ì 1ì£¼ì°¨ / 4ë¬¸ì  ```
--  commentë ìì ì´ë ê°ë¥íë¤ë©´, ì´ë²ì£¼ì íìë ë¬¸ì ì ìê³ ë¦¬ì¦ ë¶ë¥ê° ì´ë»ê² ëëì§, <br> ì´ë¤ ë¬¸ì ê° ì´ë ¤ì ëì§ íê³ ë¥¼ ìì±íë¤ë©´ ê°ì¸ìê²ë ëìëê³  ë¤ë¥¸ ì½ë ë¦¬ë·°ì´ê° ì°¸ê³ íê¸° ì¢ì ê² ê°ìµëë¤ :)
+## ✅ PR 규칙
+- PR 제목: 이름 / 주차 / 몇 문제
+-  ```jaewon han / 8월 1주차 / 4문제 ```
+-  comment는 자유이나 가능하다면, 이번주에 풀었던 문제의 알고리즘 분류가 어떻게 되는지, <br> 어떤 문제가 어려웠는지 회고를 작성한다면 개인에게도 도움되고 다른 코드 리뷰어가 참고하기 좋을 것 같습니다 :)
 
 
 <br />
 <br />
 
-## â (option)ì½ëë¦¬ë·° ê·ì¹
-- PRìì ì½ëë¦¬ë·°ë¥¼ íë¤.
-- ì ì²´ ì½ë íë¦ì íìí ë¤, ì´ ë¶ì´ ì´ë»ê² íììê¹ ì´í´ë¥¼ í í 
-- ìê²¬ì ì
-  -   ìíë¤ê³  ìê°íë ë¶ë¶
-  -   ì´ë ê² íë©´ ë ì¢ì ê² ê°ë¤ê³  ìê°íë ë¶ë¶
-  -   ì ì´ë ê² íìëì§ ê¶ê¸í ë¶ë¶
-  -   ë ë¤ë¥¸ íì´ ë°©ì ì ì
-- ì½ëì ì¼ë¶ë¶ìë¤ ì½ëë¦¬ë·°ë¥¼ í´ë ëê³  ì ì²´ ì½ë ë° or PR íë ë°ìë¤ ì½ë©í¸ ìì±ì¼ë¡ ë¦¬ë·°ë¥¼ í´ë ë©ëë¤.
+## ✅ (option)코드리뷰 규칙
+- PR에서 코드리뷰를 한다.
+- 전체 코드 흐름을 파악한 뒤, 이 분이 어떻게 풀었을까 이해를 한 후 
+- 의견제시
+  -   잘했다고 생각하는 부분
+  -   이렇게 하면 더 좋을 것 같다고 생각하는 부분
+  -   왜 이렇게 풀었는지 궁금한 부분
+  -   또 다른 풀이 방식 제시
+- 코드의 일부분에다 코드리뷰를 해도 되고 전체 코드 밑 or PR 하나 밑에다 코멘트 작성으로 리뷰를 해도 됩니다.
 
 <br />
 <br />
 
-## â ì°¸ì¬ìì ì§íë
-### ð ì±ë¦°ì§ ë¬ì± ð
+## ✅ 참여자와 진행도
+### 🎉 챌린지 달성 🎉
 <table>
   <tr>
-   <td align="center"><a href="https://github.com/ellynhan"><img src="https://avatars.githubusercontent.com/u/38302837?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ðJaewon</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/111" /></sub></a><br /></td>
-   <td align="center"><a href="https://github.com/seunggil1"><img src="https://avatars.githubusercontent.com/u/38664481?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ðseunggil</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/143" /></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/lysuk96"><img src="https://avatars.githubusercontent.com/u/48303178?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ðlysuk96</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/101" /></sub></a><br /></td>
-  <td align="center"><a href="https://github.com/gusah009"><img src="https://avatars.githubusercontent.com/u/26597702?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ðgusah009</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/193" /></sub></a><br /></td>
-  <td align="center"><a href="https://github.com/Ernstjunger-1914"><img src="https://avatars.githubusercontent.com/u/77431606?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ðErnstjunger-1914</b><b><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/102" /></sub></a><br /></td>
+   <td align="center"><a href="https://github.com/ellynhan"><img src="https://avatars.githubusercontent.com/u/38302837?v=4?s=100" width="100px;" alt=""/><br /><sub><b>🎉Jaewon</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/111" /></sub></a><br /></td>
+   <td align="center"><a href="https://github.com/seunggil1"><img src="https://avatars.githubusercontent.com/u/38664481?v=4?s=100" width="100px;" alt=""/><br /><sub><b>🎉seunggil</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/143" /></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/lysuk96"><img src="https://avatars.githubusercontent.com/u/48303178?v=4?s=100" width="100px;" alt=""/><br /><sub><b>🎉lysuk96</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/101" /></sub></a><br /></td>
+  <td align="center"><a href="https://github.com/gusah009"><img src="https://avatars.githubusercontent.com/u/26597702?v=4?s=100" width="100px;" alt=""/><br /><sub><b>🎉gusah009</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/193" /></sub></a><br /></td>
+  <td align="center"><a href="https://github.com/Ernstjunger-1914"><img src="https://avatars.githubusercontent.com/u/77431606?v=4?s=100" width="100px;" alt=""/><br /><sub><b>🎉Ernstjunger-1914</b><b><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/102" /></sub></a><br /></td>
   <td align="center"><a href="https://github.com/nhee0410"><img src="https://avatars.githubusercontent.com/u/49919262?v=4?s=100" width="100px;" alt=""/><br /><sub><b>namhee</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/102" /></sub></a><br /></td>
   </tr>
 </table>
 <br />
 
-### ð¥ ì±ë¦°ì§ ëì  ð¥
+### 🔥 챌린지 도전 🔥
 <table>
   <tr>
     <td align="center"><a href="https://github.com/lcy8047"><img src="https://avatars.githubusercontent.com/u/35690965?v=4?s=100" width="100px;" alt=""/><br /><sub><b>lcy8047</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/81" /></sub></a><br /></td>
@@ -131,25 +132,27 @@ git commit -m "[BOJ] Hello World / ë¸ë¡ ì¦5 / 1ë¶" -m "https://ww
 </table>
 <br />
 
-### ð ì±ë¦°ì§ í¬ê¸° ð
+### 💀 챌린지 포기 💀
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Yerin99"><img src="https://avatars.githubusercontent.com/u/63496777?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yerin99</b><br>ì¤ëí¬ê¸°</sub></a><br /></td>
-    <td align="center"><a href="https://github.com/dydnrn12"><img src="https://avatars.githubusercontent.com/u/22445022?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Juhyeong</b><br>ì¤ëí¬ê¸°</sub></a><br /></td>
-    <td align="center"><a href="https://github.com/songmody"><img src="https://avatars.githubusercontent.com/u/48988927?v=4?s=100" width="100px;" alt=""/><br /><sub><b>songmody</b><br>ì¤ëí¬ê¸°</sub></a><br /></td>
-    <td align="center"><a href="https://github.com/c0np4nn4"><img src="https://avatars.githubusercontent.com/u/49471288?v=4?s=100" width="100px;" alt=""/><br /><sub><b>c0np4nn4</b><br>ì¤ëí¬ê¸°</sub></a><br /></td>
-    <td align="center"><a href="https://github.com/junbo9"><img src="https://avatars.githubusercontent.com/u/96970186?v=4?s=100" width="100px;" alt=""/><br /><sub><b>junbo9</b><br>ì¤ëí¬ê¸°</sub></a><br /></td>
-    <td align="center"><a href="https://github.com/gomgom9"><img src="https://avatars.githubusercontent.com/u/96054406?v=4?s=100" width="100px;" alt=""/><br /><sub><b>GomGom9</b><br>ì¤ëí¬ê¸°</sub></a><br /></td>
-    <td align="center"><a href="https://github.com/jasper200207"><img src="https://avatars.githubusercontent.com/u/51306225?v=4?s=100" width="100px;" alt=""/><br /><sub><b>kim dokyun</b><br>ì¤ëí¬ê¸°</sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Yerin99"><img src="https://avatars.githubusercontent.com/u/63496777?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yerin99</b><br>중도포기</sub></a><br /></td>
+    <td align="center"><a href="https://github.com/dydnrn12"><img src="https://avatars.githubusercontent.com/u/22445022?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Juhyeong</b><br>중도포기</sub></a><br /></td>
+    <td align="center"><a href="https://github.com/songmody"><img src="https://avatars.githubusercontent.com/u/48988927?v=4?s=100" width="100px;" alt=""/><br /><sub><b>songmody</b><br>중도포기</sub></a><br /></td>
+    <td align="center"><a href="https://github.com/c0np4nn4"><img src="https://avatars.githubusercontent.com/u/49471288?v=4?s=100" width="100px;" alt=""/><br /><sub><b>c0np4nn4</b><br>중도포기</sub></a><br /></td>
+    <td align="center"><a href="https://github.com/junbo9"><img src="https://avatars.githubusercontent.com/u/96970186?v=4?s=100" width="100px;" alt=""/><br /><sub><b>junbo9</b><br>중도포기</sub></a><br /></td>
+    <td align="center"><a href="https://github.com/gomgom9"><img src="https://avatars.githubusercontent.com/u/96054406?v=4?s=100" width="100px;" alt=""/><br /><sub><b>GomGom9</b><br>중도포기</sub></a><br /></td>
+    <td align="center"><a href="https://github.com/jasper200207"><img src="https://avatars.githubusercontent.com/u/51306225?v=4?s=100" width="100px;" alt=""/><br /><sub><b>kim dokyun</b><br>중도포기</sub></a><br /></td>
   </tr>
 </table>
 <br />
 
-### ð ê¸°í ð
+### 🍀 기타 🍀
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Dongyeon-k"><img src="https://avatars.githubusercontent.com/u/67852646?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dongyeon</b><br>ðì·¨ë½ð</sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Dongyeon-k"><img src="https://avatars.githubusercontent.com/u/67852646?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dongyeon</b><br>👏취뽀👏</sub></a><br /></td>
   </tr>
 </table>
 <br />
 <br />
+
+    
