@@ -87,7 +87,8 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
          <td align="center"><a href="https://github.com/nhee-dev"><img src="https://avatars.githubusercontent.com/u/49919262?v=4?s=100" width="100px;" alt=""/>         <br /><sub><b>🎉nhee-dev</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/102" /></sub></a><br /></td>
          <td align="center"><a href="https://github.com/Ernstjunger-1914"><img src="https://avatars.githubusercontent.com/u/77431606?v=4?s=100" width="100px;" alt=""/>         <br /><sub><b>🎉Ernstjunger-1914</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/102" /></sub></a><br /></td>
          <td align="center"><a href="https://github.com/lysuk96"><img src="https://avatars.githubusercontent.com/u/48303178?v=4?s=100" width="100px;" alt=""/>         <br /><sub><b>🎉lysuk96</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/101" /></sub></a><br /></td>
-</tr></table>
+</tr></table><br />
+
 ### 🔥 챌린지 도전 🔥
 <table><tr>         <td align="center"><a href="https://github.com/wi-seong-cheol"><img src="https://avatars.githubusercontent.com/u/53855302?v=4?s=100" width="100px;" alt=""/>         <br /><sub><b>wi-seong-cheol</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/96" /></sub></a><br /></td>
          <td align="center"><a href="https://github.com/sangbeomheo"><img src="https://avatars.githubusercontent.com/u/41741221?v=4?s=100" width="100px;" alt=""/>         <br /><sub><b>sangbeomheo</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/81" /></sub></a><br /></td>
@@ -116,7 +117,8 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
          <td align="center"><a href="https://github.com/weaver9651"><img src="https://avatars.githubusercontent.com/u/16550538?v=4?s=100" width="100px;" alt=""/>         <br /><sub><b>weaver9651</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/4" /></sub></a><br /></td>
          <td align="center"><a href="https://github.com/gardenia0917"><img src="https://avatars.githubusercontent.com/u/89240523?v=4?s=100" width="100px;" alt=""/>         <br /><sub><b>gardenia0917</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/3" /></sub></a><br /></td>
          <td align="center"><a href="https://github.com/beomukim"><img src="https://avatars.githubusercontent.com/u/86512449?v=4?s=100" width="100px;" alt=""/>         <br /><sub><b>beomukim</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/2" /></sub></a><br /></td>
-</table>
+</table><br />
+
 ### 💀 챌린지 포기 💀
 <table><tr>         <td align="center"><a href="https://github.com/jasper200207"><img src="https://avatars.githubusercontent.com/u/51306225?v=4?s=100" width="100px;" alt=""/>         <br /><sub><b>jasper200207</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0" /></sub></a><br /></td>
          <td align="center"><a href="https://github.com/junbo9"><img src="https://avatars.githubusercontent.com/u/96970186?v=4?s=100" width="100px;" alt=""/>         <br /><sub><b>junbo9</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0" /></sub></a><br /></td>
